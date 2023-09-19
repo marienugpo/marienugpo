@@ -20,7 +20,6 @@
 <h2>☁️ Networking & Cloud Projects</h2>
 
 - <b>In Progress</b>
-  - [Project 1](url)
 
 <h2> 🤳 Connect with me:</h2>
 

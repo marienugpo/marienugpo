@@ -15,7 +15,7 @@
 <h2>💻 IT/System Administration Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation](https://github.com/marienugpo/ActiveDirectoryBulkUsersLab)
 
 <h2>☁️ Networking & Cloud Projects</h2>
 

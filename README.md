@@ -17,7 +17,7 @@
 - <b>Active Directory Home Lab</b>
   - [Active Directory Bulk User Creation](https://github.com/marienugpo/ActiveDirectoryBulkUsersLab)
 
-<h2>☁️ Networking & Cloud Projects</h2>
+<h2>☁️ Cloud & Security Projects</h2>
 
 - <b>In Progress</b>
 
